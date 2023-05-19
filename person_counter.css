@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: url("https://source.unsplash.com/random/1280x720/?nature");
+}
+#count{
+    font-size:35px;
+}
+#btni{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: aqua;
+}
+#btn:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+#btns{
+    font-size: 30px;
+    background-color: greenyellow;
+    border-radius:5px;
+    margin: 15px;
+    color:white;
+}
+#prev{
+    font-size: 25px;
+    font-weight: 600;   
+}   
